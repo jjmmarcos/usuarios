@@ -1,43 +1,83 @@
 {
     "usuarios":[{
             "id":"1",
-            "name":"Leanne Graham"
+            "name":"Leanne Graham",
+            "username":"",
+            "email":"",
+            "city":"",
+            "website":""
         },
         {
             "id":"2",
-            "name":"Ervin Howell"
+            "name":"Ervin Howell",
+            "username":"",
+            "email":"",
+            "city":"",
+            "website":""
         },
         {
             "id":"3",
-            "name":"Clementine Bauch"
+            "name":"Clementine Bauch",
+            "username":"",
+            "email":"",
+            "city":"",
+            "website":""
         },
         {
             "id":"4",
-            "name":"Patricia Lebsack"
+            "name":"Patricia Lebsack",
+            "username":"",
+            "email":"",
+            "city":"",
+            "website":""
         },
         {
             "id":"5",
-            "name":"Chelsey Dietrich"
+            "name":"Chelsey Dietrich",
+            "username":"",
+            "email":"",
+            "city":"",
+            "website":""
         },
         {
             "id":"6",
-            "name":"Mrs. Dennis Schulist"
+            "name":"Mrs. Dennis Schulist",
+            "username":"",
+            "email":"",
+            "city":"",
+            "website":""
         },
         {
             "id":"7",
-            "name":"Kurtis Weissnat"
+            "name":"Kurtis Weissnat",
+            "username":"",
+            "email":"",
+            "city":"",
+            "website":""
         },
         {
             "id":"8",
-            "name":"Nicholas Runolfsdottir V"
+            "name":"Nicholas Runolfsdottir V",
+            "username":"",
+            "email":"",
+            "city":"",
+            "website":""
         },
         {
             "id":"9",
-            "name":"Glenna Reichert"
+            "name":"Glenna Reichert",
+            "username":"",
+            "email":"",
+            "city":"",
+            "website":""
         },
         {
             "id":"10",
-            "name":"Clementina DuBuque"
+            "name":"Clementina DuBuque",
+            "username":"",
+            "email":"",
+            "city":"",
+            "website":""
         }
     ]
 }
