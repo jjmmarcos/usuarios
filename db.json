@@ -3,81 +3,81 @@
             "id":"1",
             "name":"Leanne Graham",
             "username":"leangr",
-            "email":"",
+            "email":"leanne@graham.biz",
             "city":"",
-            "website":""
+            "website":"leangr.org"
         },
         {
             "id":"2",
             "name":"Ervin Howell",
             "username":"ervhow",
-            "email":"",
+            "email":"ervin@howell.biz",
             "city":"",
-            "website":""
+            "website":"ervhow.org"
         },
         {
             "id":"3",
             "name":"Clementine Bauch",
             "username":"clementbau",
-            "email":"",
+            "email":"clementine@bauch.biz",
             "city":"",
-            "website":""
+            "website":"clementbau.org"
         },
         {
             "id":"4",
             "name":"Patricia Lebsack",
             "username":"patrlebs",
-            "email":"",
+            "email":"patricia@lebsack.biz",
             "city":"",
-            "website":""
+            "website":"patrlebs.org"
         },
         {
             "id":"5",
             "name":"Chelsey Dietrich",
             "username":"cheldietr",
-            "email":"",
+            "email":"chelsey@dietrich.biz",
             "city":"",
-            "website":""
+            "website":"cheldietr.org"
         },
         {
             "id":"6",
             "name":"Mrs. Dennis Schulist",
             "username":"dennschu",
-            "email":"",
+            "email":"dennis@schulist.biz",
             "city":"",
-            "website":""
+            "website":"dennschu.org"
         },
         {
             "id":"7",
             "name":"Kurtis Weissnat",
             "username":"kurtwei",
-            "email":"",
+            "email":"kurtis@weissnat.biz",
             "city":"",
-            "website":""
+            "website":"kurtwei.org"
         },
         {
             "id":"8",
             "name":"Nicholas Runolfsdottir V",
             "username":"nichrun",
-            "email":"",
+            "email":"nicholas@runnolfsdottir.biz",
             "city":"",
-            "website":""
+            "website":"nichrun.org"
         },
         {
             "id":"9",
             "name":"Glenna Reichert",
             "username":"glennreich",
-            "email":"",
+            "email":"glenna@reichert.biz",
             "city":"",
-            "website":""
+            "website":"glennreich.org"
         },
         {
             "id":"10",
             "name":"Clementina DuBuque",
             "username":"clemendu",
-            "email":"",
+            "email":"clementina@dubuque.biz",
             "city":"",
-            "website":""
+            "website":"clemendu.org"
         }
     ]
 }
